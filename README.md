@@ -28,15 +28,8 @@ python app.py
 
 Visit: http://localhost:5000
 
-## 📸 Application Screenshots
+![Uploading image.png…]()
 
-| Dashboard | Expense Tracker |
-|----------|----------------|
-| ![](screenshots/dashboard.png) | ![](screenshots/dashboard1.png) |
-
-| Goal Predictor | Login |
-|---------------|-------|
-| ![](screenshots/predictor.png) | ![](screenshots/rewards.png) |
 
 ## Tech Stack
 - **Backend**: Flask + SQLite (built-in, no extra DB setup)
